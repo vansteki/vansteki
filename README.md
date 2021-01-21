@@ -1,14 +1,13 @@
 ###
- ✨ A! hoy! This guy is a versatile F2E
+ ✨ A! hoy! This guy is a versatile F2E 👀
  
  ✨ On vacation 🌴😎
 
 ### Skills
-
-- Vue
 - JavasScript
-- CSS
+- Vue, Nuxt
 - Node.js
+- CSS
 - Bash
 - Basic Backend Experiences
 - IaC
