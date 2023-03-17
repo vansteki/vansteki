@@ -1,6 +1,5 @@
 ###
- ✨ This guy is a versatile F2E 👀
- ✨ 🐈🐕🐕🐕
+ ✨ This guy is a versatile F2E 👀 🐈🐕🐕🐕
 
 ### Skills
 - JavasScript
