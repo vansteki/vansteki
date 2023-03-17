@@ -1,7 +1,6 @@
 ###
- ✨ A! hoy! This guy is a versatile F2E 👀
- 
- ✨ On vacation 🌴😎
+ ✨ This guy is a versatile F2E 👀
+ ✨ 🐈🐕🐕🐕
 
 ### Skills
 - JavasScript
