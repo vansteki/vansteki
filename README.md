@@ -1,5 +1,5 @@
 ###
- ✨ This guy is a versatile F2E 👀 🐈🐕🐕🐕
+ ✨ Former F2E, current cybersecurity researcher. 👀 🐈🐕🐕🐕
 
 ### Skills
 - JavasScript
